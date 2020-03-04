@@ -9,7 +9,7 @@ import NotFound from './Pages/NotFound/NotFound';
 
 import { BrowserRouter, Switch, Route} from 'react-router-dom';
 
-import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from '../serviceWorker';
 
 ReactDOM.render(
     <BrowserRouter>

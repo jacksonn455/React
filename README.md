@@ -1,4 +1,4 @@
-Curso de React
+Curso de React JS
 ===============================================
 
 - Iniciando os trabalhos
